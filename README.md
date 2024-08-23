@@ -1,1 +1,3 @@
 My 26th assignment! With this assignment we tested out creating multiple forms to get used to the variety of inputs and attributes that work with them. What was most surprising is that the input patterns for validation is just... regex! Which shouldn't be surprising but did make me laugh since I wasn't expecting it.
+
+![website preview](https://raw.githubusercontent.com/Windikite/HTMLForms/master/website_preview.png)
